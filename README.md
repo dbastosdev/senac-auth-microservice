@@ -11,6 +11,7 @@ Para rodar o projeto:
 - Banco de dados H2
 - Spring Data JPA
 - Spring Validation
+- Maven
 
 ## 2) Funcionamento
 

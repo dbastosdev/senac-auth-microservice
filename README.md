@@ -23,4 +23,6 @@ A api possui endpoint de login para obtenção de token jwt. E rotas acessíveis
 | `POST` | /oauth/token| username, password e grant_type | Token JWT
 | `GET` | /users | Authorization + token | Retorna todos os usuários
 
+## 4) Entidades para autenticação: 
 
+Composto por User e Role. Com relação N:N. 
